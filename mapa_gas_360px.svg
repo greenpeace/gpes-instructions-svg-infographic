@@ -47,16 +47,16 @@
 	.st40{fill:none;stroke:#E84F26;stroke-miterlimit:10;stroke-dasharray:2.0099,2.0099;}
 	.st41{fill-rule:evenodd;clip-rule:evenodd;fill:#858A86;}
 	.st42{fill:none;}
-	.st43{font-family:'Rubik-Medium';}
+	.st43{font-family:'Rubik'; font-weight: 500;}
 	.st44{font-size:26px;}
 	.st45{fill:none;stroke:#E84F26;stroke-miterlimit:10;stroke-dasharray:1.9587,1.9587;}
 	.st46{fill:none;stroke:#E84F26;stroke-miterlimit:10;stroke-dasharray:1.9792,1.9792;}
 	.st47{fill:none;stroke:#E84F26;stroke-miterlimit:10;stroke-dasharray:1.9713,1.9713;}
 	.st48{fill:#E84F26;}
-	.st49{font-family:'WorkSans-SemiBold';}
+	.st49{font-family:'Work Sans'; font-weight: 600;}
 	.st50{font-size:4.1378px;}
 	.st51{fill-rule:evenodd;clip-rule:evenodd;fill:#69AF2D;}
-	.st52{font-family:'WorkSans-Medium';}
+	.st52{font-family:'Work Sans'; font-weight: 400;}
 	.st53{font-size:8.1734px;}
 	.st54{fill:none;stroke:#E84F26;stroke-miterlimit:10;stroke-dasharray:2.0648,2.0648;}
 	.st55{fill:none;stroke:#5B4A5A;stroke-miterlimit:10;}

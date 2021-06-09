@@ -19,7 +19,7 @@
 	.st12{fill:#FD4D15;}
 	.st13{fill:#D9DAD9;}
 	.st14{fill:none;}
-	.st15{font-family:'Rubik-Medium';}
+	.st15{font-family:'Rubik'; font-weight: 500;}
 	.st16{font-size:29px;}
 	.st17{fill-rule:evenodd;clip-rule:evenodd;fill:#E9EFB6;fill-opacity:0.5;}
 	.st18{fill-rule:evenodd;clip-rule:evenodd;fill:#97CDB1;}
@@ -37,7 +37,7 @@
 	.st30{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:0.75;stroke-miterlimit:10;}
 	.st31{fill:none;stroke:#EE7758;stroke-width:0.75;stroke-miterlimit:10;}
 	.st32{fill:#E84F26;}
-	.st33{font-family:'WorkSans-SemiBold';}
+	.st33{font-family:'Work Sans'; font-weight: 600;}
 	.st34{font-size:12.3309px;}
 	.st35{fill:#F49D18;}
 	.st36{fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
@@ -52,7 +52,7 @@
 	.st45{font-size:10.0864px;}
 	.st46{font-size:7.5648px;}
 	.st47{fill:#1D1D1B;}
-	.st48{font-family:'WorkSans-Medium';}
+	.st48{font-family:'Work Sans'; font-weight: 400;}
 	.st49{font-size:8.8255px;}
 	.st50{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
 	.st51{fill:none;stroke:#F49D18;stroke-width:0.5;stroke-miterlimit:10;}

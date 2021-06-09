@@ -47,18 +47,18 @@
 	.st40{fill:none;stroke:#E84F26;stroke-miterlimit:10;stroke-dasharray:2.0099,2.0099;}
 	.st41{fill-rule:evenodd;clip-rule:evenodd;fill:#858A86;}
 	.st42{fill:none;}
-	.st43{font-family:'Rubik-Medium';}
+	.st43{font-family:'Rubik'; font-weight: 500;}
 	.st44{font-size:26px;}
 	.st45{fill:none;stroke:#E84F26;stroke-miterlimit:10;stroke-dasharray:1.9587,1.9587;}
 	.st46{fill:#E84F26;}
-	.st47{font-family:'WorkSans-SemiBold';}
+	.st47{font-family:'Work Sans'; font-weight: 600;}
 	.st48{font-size:7.5518px;}
 	.st49{font-size:4.3222px;}
 	.st50{font-size:6.3035px;}
 	.st51{font-size:5.5155px;}
 	.st52{font-size:6.1771px;}
 	.st53{fill:#1D1D1B;}
-	.st54{font-family:'WorkSans-Medium';}
+	.st54{font-family:'Work Sans'; font-weight: 400;}
 	.st55{font-size:5.405px;}
 	.st56{fill:none;stroke:#E84F26;stroke-miterlimit:10;stroke-dasharray:1.9792,1.9792;}
 	.st57{font-size:6.0356px;}
